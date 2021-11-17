@@ -14,6 +14,12 @@
             "title":"GitHub",
             "description":"My open projects.",
             "url":"https://github.com/ariol01"
-        },        
+        },
+        {
+            "key":"dev",
+            "title":"Dev",
+            "description":"The devs social network dev.to",
+            "url":"https://dev.to"
+        }
     ]
 }
